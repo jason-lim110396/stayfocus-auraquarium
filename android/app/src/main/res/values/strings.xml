@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Stay Focus - AuraQuarium</string>
+    <string name="title_activity_main">Stay Focus - AuraQuarium</string>
+    <string name="package_name">com.auraquarium.focus</string>
+    <string name="custom_url_scheme">com.auraquarium.focus</string>
+</resources>
